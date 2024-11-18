@@ -1,4 +1,3 @@
-// src/pages/Home/Topics.tsx
 import { Card, CardContent } from '../../components/ui/card';
 
 interface Service {

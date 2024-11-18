@@ -11,22 +11,22 @@ const topics: Topic[] = [
   {
     name: "Machine Learning",
     description: "Deep learning research and Blog",
-    link: "/topics/machine-learning"
+    link: "/topics"
   },
   {
     name: "Software Development", 
     description: "Scalable microsopics and full-stack applications",
-    link: "/topics/software-development"
+    link: "/topics"
   },
   {
     name: "Physics",
     description: "Physics Research and Blog",
-    link: "/topics/physics"
+    link: "/topics"
   },
   {
     name: "Poetry & Photography",
     description: "Visual and storytelling through words and lens",
-    link: "/topics/poetry-&-photography"
+    link: "/topics"
   }
 ];
 
