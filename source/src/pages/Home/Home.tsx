@@ -1,6 +1,6 @@
 import { Profile } from "./Profile"
 import { Navigation } from "../Navigation"
-import { Topics } from "./Topics"
+import { Topics } from "../Topics"
 import { FeaturedWork } from "./FeaturedWork"
 import { Contact } from "../Contact"
 
